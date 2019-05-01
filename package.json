@@ -5,7 +5,7 @@
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "format": "prettier --write **/*.{html,js,json}",
+    "format": "prettier --write **/*.{html,js,json,md}",
     "clean": "rimraf public/**/*.js",
     "serve": "serve -n -c serve.json",
     "compile": "babel source -d public",
