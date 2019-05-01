@@ -13,19 +13,19 @@
     "build": "yarn clean && yarn compile"
   },
   "dependencies": {
-    "lit-html": "^1.0.0"
+    "lit-html": "1.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.4.4",
-    "@babel/core": "^7.4.4",
-    "@babel/plugin-proposal-class-properties": "^7.4.4",
-    "@babel/plugin-proposal-private-methods": "^7.4.4",
-    "@babel/preset-env": "^7.4.4",
-    "@commitlint/config-conventional": "^7.5.0",
-    "commitlint": "^7.5.2",
-    "husky": "^2.1.0",
-    "prettier": "^1.17.0",
-    "rimraf": "^2.6.3",
-    "serve": "^11.0.0"
+    "@babel/cli": "7.4.4",
+    "@babel/core": "7.4.4",
+    "@babel/plugin-proposal-class-properties": "7.4.4",
+    "@babel/plugin-proposal-private-methods": "7.4.4",
+    "@babel/preset-env": "7.4.4",
+    "@commitlint/config-conventional": "7.5.0",
+    "commitlint": "7.5.2",
+    "husky": "2.1.0",
+    "prettier": "1.17.0",
+    "rimraf": "2.6.3",
+    "serve": "11.0.0"
   }
 }
