@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <script type="importmap">
+      {
+        "imports": {
+          "lit-html": "../node_modules/lit-html/lit-html.js"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <simple-greeting name="Everyone"></simple-greeting>
+
+    <script type="module">
+      import '/index.js';
+    </script>
+  </body>
+</html>
