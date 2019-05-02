@@ -23,7 +23,7 @@
     "@babel/preset-env": "7.4.4",
     "@commitlint/config-conventional": "7.5.0",
     "commitlint": "7.5.2",
-    "husky": "2.1.0",
+    "husky": "2.2.0",
     "prettier": "1.17.0",
     "rimraf": "2.6.3",
     "serve": "11.0.0"
