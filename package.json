@@ -24,7 +24,7 @@
     "@commitlint/config-conventional": "7.6.0",
     "commitlint": "7.6.0",
     "husky": "2.2.0",
-    "prettier": "1.17.0",
+    "prettier": "1.17.1",
     "rimraf": "2.6.3",
     "serve": "11.0.0"
   }
