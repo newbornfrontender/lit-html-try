@@ -16,11 +16,11 @@
     "lit-html": "1.1.0"
   },
   "devDependencies": {
-    "@babel/cli": "7.4.4",
-    "@babel/core": "7.4.5",
-    "@babel/plugin-proposal-class-properties": "7.4.4",
-    "@babel/plugin-proposal-private-methods": "7.4.4",
-    "@babel/preset-env": "7.4.5",
+    "@babel/cli": "7.7.0",
+    "@babel/core": "7.7.2",
+    "@babel/plugin-proposal-class-properties": "7.7.0",
+    "@babel/plugin-proposal-private-methods": "7.6.0",
+    "@babel/preset-env": "7.7.1",
     "@commitlint/config-conventional": "8.0.0",
     "commitlint": "8.0.0",
     "husky": "2.3.0",
